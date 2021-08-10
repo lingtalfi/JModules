@@ -1,6 +1,6 @@
 JModules
 ===========
-2021-08-05
+2021-08-05 -> 2021-08-10
 
 
 
@@ -44,6 +44,10 @@ Summary
 History Log
 =============
 
+- 1.0.1 -- 2021-08-10
+
+    - add AjaxFormErrorHandler and Bootstrap5AjaxFormErrorHandler modules
+  
 - 1.0.0 -- 2021-08-05
 
     - initial commit
